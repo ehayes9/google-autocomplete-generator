@@ -28,7 +28,7 @@ confuse==1.0.0
 croniter==0.3.29
 cryptography==2.6.1
 cycler==0.10.0
-dask==1.1.5
+dask==2021.10.0
 databricks-cli==0.9.1
 dbt==0.12.2
 decorator==4.4.0
