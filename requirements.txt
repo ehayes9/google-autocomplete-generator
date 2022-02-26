@@ -96,7 +96,7 @@ mccabe==0.6.1
 minimal-snowplow-tracker==0.0.2
 missingno==0.4.2
 mistune==0.8.4
-mlflow==1.7.2
+mlflow==1.23.1
 more-itertools==7.2.0
 msgpack==0.6.1
 mypy==0.670
