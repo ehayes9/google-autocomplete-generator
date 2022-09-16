@@ -87,7 +87,7 @@ kmodes==0.10.1
 lazy-object-proxy==1.4.2
 leather==0.3.3
 llvmlite==0.29.0
-Mako==1.1.2
+Mako==1.2.2
 MarkupSafe==1.1.1
 marshmallow==3.0.0b19
 marshmallow-oneofschema==2.0.0b2
